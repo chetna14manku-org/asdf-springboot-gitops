@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: asdf-springboot-gitops-repository
+spec:
+  url: https://github.com/chetna14manku-org/asdf-springboot-gitops
